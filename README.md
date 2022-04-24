@@ -37,3 +37,13 @@ Enter A to add video to track, passing index and position -
 Enter AE to add media element -
 
 <img src="https://user-images.githubusercontent.com/54735797/164990879-f4fa8613-ad12-46cc-b072-2275c5ef0223.png" width="400">
+
+Enter EY to upload the edited video to YouTube -
+
+<img src="https://user-images.githubusercontent.com/54735797/164991071-37555697-e0da-402f-9824-e2d55228afd0.png" width="400">
+
+and the uploaded video can be seen on YouTube -
+
+<img src="https://user-images.githubusercontent.com/54735797/164991117-3c642eaf-db59-4fba-b22f-be348aa064f8.png" width="800">
+ 
+To use the functionality of uploading to YouTube, please [contact us](mailto:abhijnanashakuntalum@gmail.com).
